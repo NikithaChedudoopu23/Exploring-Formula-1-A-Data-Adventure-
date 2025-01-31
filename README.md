@@ -2,7 +2,10 @@
 
 This project analyzes **Formula 1 racing data** to uncover insights into team performance, driver statistics, and race dynamics. The study also examines how weather conditions impact race outcomes, providing data-driven insights for strategic decision-making.
 
+🔗 **Link to the dataset:** [Formula 1 World Championship (1950 - 2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+
 🔗 **Project Website:** [Formula 1 Data Analysis](http://sites.google.com/view/formula1grp3/home)
+
 
 ## 🎯 Objectives
 - Conduct in-depth **data exploration** and **analysis** on Formula 1 races.
