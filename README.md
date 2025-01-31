@@ -14,7 +14,11 @@ This project analyzes **Formula 1 racing data** to uncover insights into team pe
 
 ## 🛠 Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-  
+
+🔗 **Vizualisation in Flourish:** 
+[Historical Trends in Formula 1 Racing](https://public.flourish.studio/visualisation/15468255/)
+
+
 ## 📊 Key Findings
 - **Weather conditions significantly affect race outcomes**, with rain often leading to more unpredictable results.
 - **Certain teams consistently outperform others** under specific track/weather conditions.
